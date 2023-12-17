@@ -4,6 +4,8 @@
 /////////////////////////////////////////////////
 // BANKIST APP
 
+alert('acc1: js , pass: 1111 // acc2: jd , pass: 2222 // acc3: stw , pass: 3333 // acc4: ss , pass: 4444 ');
+
 // Data
 const account1 = {
   owner: 'Jonas Schmedtmann',
