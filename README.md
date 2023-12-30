@@ -4,3 +4,5 @@ this is a bank app have 4 accounts:
 2) acc: jd  /and/  pass: 2222
 3) acc: stw  /and/  pass: 3333
 4) acc: ss  /and/  pass: 4444
+
+Demo: https://bank-app-abdullah-abushehab.netlify.app/
